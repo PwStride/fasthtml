@@ -14,3 +14,4 @@ from .live_reload import *
 from .toaster import *
 from .js import *
 from .fastapp import *
+from .version_control import *
